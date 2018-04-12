@@ -28,3 +28,11 @@ At step by step guide can be found at https://lunaapi.ga/documents/step-1.html
 To transfer an API call to the swagger documentation generation project, select the api call, select the LunaAPI2Swagger.xojo_binary_project file and press the send to project button.
 
 If your forgot to select the project file, the file dialog will open to allow you to select the project.
+
+## Special Thanks
+
+This program makes use of the Free Magic Listbox by Simcar Software http://simcarsoftware.com/newfree/newxojo/index.html
+
+Paul Lefebvre of Xojo, Inc.: http://xojo.com
+
+Kem Tekinay: http://www.mactechnologies.com/
