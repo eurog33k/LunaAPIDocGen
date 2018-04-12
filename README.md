@@ -9,6 +9,8 @@ This program is used to document API calls and translate them into JSON so that 
 
 ## How to document the API Call:
 
+**Important note: Before starting LunaAPIDocGen, place the apidocsluna.db sqlite database from the externals folder under SpecialFolder.ApplicationData**
+
 • Start LunaAPIDocGen
 
 • Fill in the API call (start the API path with a /)
