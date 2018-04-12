@@ -31,7 +31,8 @@ If your forgot to select the project file, the file dialog will open to allow yo
 
 ## Special Thanks
 
-This program makes use of the Free Magic Listbox by Simcar Software http://simcarsoftware.com/newfree/newxojo/index.html
+This program makes use of the Free Magic Listbox by Simcar Software  
+http://simcarsoftware.com/newfree/newxojo/index.html
 
 Paul Lefebvre of Xojo, Inc.: http://xojo.com
 
